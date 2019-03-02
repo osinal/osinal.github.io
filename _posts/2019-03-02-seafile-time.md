@@ -17,9 +17,6 @@ author: osInal
 ```
 ## 解决方法：
 
->  
-
-```js
 cd /var/www/seafile/conf
 vi seahub_settings.py
 TIME_ZONE = 'Asia/Shanghai' #增加时区
