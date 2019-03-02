@@ -14,13 +14,13 @@ url: "https://osinal.github.io" # the base hostname & protocol for your site
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: osinal
-facebook_username: osinal
-github_username:  osinal
+twitter_username:
+facebook_username:
+github_username:
 email: osinal@qq.com
-weibo_username: osinal
-zhihu_username: osinal
-linkedIn_username: osinal
+weibo_username:
+zhihu_username:
+linkedIn_username:
 dribbble_username:
 
 description_footer: 本站记录我ITy运维之旅的沿途风景！
